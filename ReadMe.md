@@ -1,4 +1,3 @@
-%%writefile README.md
 # Twitter Sentiment Analysis
 
 This project aims to perform sentiment analysis on tweets to classify them into different sentiment categories (Irrelevant, Negative, Neutral, Positive). It utilizes a Bidirectional LSTM model trained on a dataset of tweets.
